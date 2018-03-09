@@ -14,7 +14,7 @@ class hstImages():
 
 		## Selection criteria
 		self.minexp=80
-		self.allowed_detector=['WFPC2/WFC','PC/WFC','ACS/WFC','ACS/HRC','ACS/SBC','WFC3/UVIS','WFC3/IR']  #We need chage these filters
+		self.allowed_detector=['WFPC2/WFC','PC/WFC','ACS/WFC','ACS/HRC','ACS/SBC','WFC3/UVIS','WFC3/IR']  #We need chage these filters TEST
 		self.badfilter=['DETECTION']
 		self.collection=['HLA','HST']
 
